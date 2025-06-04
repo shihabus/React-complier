@@ -1,2 +1,2 @@
-## React complier
-A deep into new React Complier
+## React compiler
+Deep into the new React Compiler (Shihab)
